@@ -2,7 +2,7 @@
     "require": {
         "symfony/var-dumper": "^4.3",
         "gabordemooij/redbean": "dev-master",
-        "illuminate/database": "^5.8",
+        "illuminate/database": "^6.20",
         "monolog/monolog": "^2.0",
         "vlucas/valitron": "^1.4"
     },
